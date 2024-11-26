@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é um loop?',
-    'Um loop é uma estrutura de repetição que executa um bloco de código várias vezes'
+    'O que é uma variável?',
+    'Espaço na memória para amenizar dados'
 );
 
 criaCartao(
     'Geografia',
-    'Qual é a montanha mais alta do mundo?',
-    'A montanha mais alta do mundo é o Monte Everest'
+    'Qual é o maior oceano do mundo?',
+    'O oceano maior do mundo é o Oceano Pacífico'
 );
 
 criaCartao(
     'Programação',
-    'O que é um algoritmo?',
-    'Um algoritmo é uma sequência de passos para resolver um problema'
+    'Para que serve o comando IF?',
+    'Executa código se a condição for verdadeira'
 );
 
 criaCartao(
     'Língua inglesa',
-    'Como se diz adeus em inglês?',
-    'Adeus em inglês é "Goodbye"'
+    'Como se diz mãe em inglês?',
+    'Mãe em inglês é "Mother"'
 );
